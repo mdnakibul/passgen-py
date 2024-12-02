@@ -32,3 +32,12 @@ This project is a **Password Generator** built using **Python**, featuring a gra
    ```bash
    sudo apt-get install python3-tk
    ```
+
+---
+
+### Notes for Customization
+
+1. Update the file name in `password_generator.py` if your script has a different name.
+2. If you add extra features, reflect them in the **Features** or **Future Enhancements** sections.
+
+This `README.md` will provide clear documentation for your project and make it look professional. 😊
